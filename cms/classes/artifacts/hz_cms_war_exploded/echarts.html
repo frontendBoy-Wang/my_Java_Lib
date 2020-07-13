@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>echarts使用示例</title>
+<!-- 1. 引入到页面  -->
+<script type="text/javascript" src="resources/echarts.min.js"></script>
+</head>
+<body>
+	<!-- 2. 创建图表容器  -->
+	<div id="contain" style="width: 500px;height: 500px">
+	
+	</div>
+	<script type="text/javascript">
+		//3.使用echarts 初始化图表容器
+		//初始化了一个echart对象
+		var echart = echarts.init(document.getElementById('contain'));
+		//绘制图表
+		//图表参数
+		var options = {
+				title:{
+					text: '图表的标题'
+				},
+				tooltip:{//提示工具的设置
+					 trigger: 'axis',//关联触发
+				     formatter: '{a} <br/>{b} : {c}'
+				},
+				legend:{ //图例设置   对图说明
+					data:['销量图例','销量折线','销量2']
+				},
+				xAxis: {  //x轴的配置
+		                data: ["衬衫","羊毛衫","雪纺衫","裤子","高跟鞋","袜子"]
+		        },
+		        yAxis:{//y轴
+		        },
+		        series: [//图表系列   ----- 各种图表的集合
+		        	{
+	                name: '销量图例', //图表系列的名称
+	                type: 'bar', //图表系列类型  柱状图
+	                data: [
+		                	{name:'衬衫',value:5},
+		                	{name:'羊毛衫',value:20},
+		                	{name:'雪纺衫',value:36},
+		                	{name:'裤子',value:10},
+		                	{name:'高跟鞋',value:10},
+		                	{name:'袜子',value:20}
+	                	] //数据
+	            	},
+	            	{
+		                name: '销量2', //图表系列的名称
+		                type: 'bar', //图表系列类型  柱状图
+		                data: [
+			                	{name:'衬衫',value:5},
+			                	{name:'羊毛衫',value:20},
+			                	{name:'雪纺衫',value:36},
+			                	{name:'裤子',value:10},
+			                	{name:'高跟鞋',value:10},
+			                	{name:'袜子',value:20}
+		                	] //数据
+		            	},
+	            	{
+		                name: '销量折线', //图表系列的名称
+		                type: 'line', //图表系列类型
+		                smooth:true,//平滑处理
+		                data: [
+			                	{name:'衬衫',value:5},
+			                	{name:'羊毛衫',value:20},
+			                	{name:'雪纺衫',value:36},
+			                	{name:'裤子',value:10},
+			                	{name:'高跟鞋',value:10},
+			                	{name:'袜子',value:20}
+		                	] //数据
+		            }
+		        ]
+		}
+		//根据参数绘制
+		echart.setOption(options);
+	
+	</script>
+</body>
+</html>
