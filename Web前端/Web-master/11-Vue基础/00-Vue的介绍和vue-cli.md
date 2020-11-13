@@ -1,4 +1,3 @@
-
 ## MVVM模式
 
 ![](http://img.smyhvae.com/20180420_2150.png)
