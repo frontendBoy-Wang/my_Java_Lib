@@ -44,6 +44,7 @@ public class mybatisTest {
         sqlSession = factory.openSession();
         //4.获取dao的代理对象
         userDao = sqlSession.getMapper(IUserDao.class);
+        
     }
 
     /***
