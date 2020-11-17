@@ -11,7 +11,7 @@
         <result property="money" column="money"/>
 
         <!-- 一对一的关系映射：配置封装user的内容 -->
-        <association property="user" column="uid" javaType="domain.User">
+        <association property="uid" column="uid" javaType="domain.User">
             <id property="id" column="id"/>
             <result column="username" property="username"/>
             <result column="address" property="address"/>
