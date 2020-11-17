@@ -9,6 +9,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Servlet4_0V/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web2">
@@ -19,6 +20,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Response/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web3">
@@ -29,6 +31,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Filter_Listener_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web4">
@@ -39,6 +42,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Tomcat_servlet/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web5">
@@ -49,6 +53,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/case_17_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web6">
@@ -59,6 +64,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Filter&amp;Listener/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web7">
@@ -69,6 +75,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/JQuery_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web8">
@@ -79,6 +86,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Servlet_Http_Request/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web9">
@@ -89,6 +97,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Servlet_Login/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web10">
@@ -99,6 +108,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/El&amp;JSTL/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web11">
@@ -109,6 +119,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/cms/classes/artifacts/hz_cms_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web12">
@@ -119,6 +130,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Servlet4_0V_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web13">
@@ -129,6 +141,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/cms/WebRoot" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web14">
@@ -139,6 +152,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/JSP_case_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web15">
@@ -149,6 +163,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/JSP_case/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web16">
@@ -159,6 +174,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/case_17/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web17">
@@ -169,6 +185,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Cook_Session_JSP_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web18">
@@ -179,6 +196,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/JQuery/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web19">
@@ -189,6 +207,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Servlet_Login_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web20">
@@ -199,6 +218,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/Cook_Session_JSP/web" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web21">
@@ -209,6 +229,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/El_JSTL_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web22">
@@ -219,6 +240,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Servlet_Http_Request_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web23">
@@ -229,6 +251,7 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Tomcat_servlet_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="web" name="Web24">
@@ -239,12 +262,15 @@
         <webroots>
           <root url="file://$MODULE_DIR$/JavaWebProject/out/artifacts/Response_war_exploded" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/JavaWebProject/lib" type="java-resource" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

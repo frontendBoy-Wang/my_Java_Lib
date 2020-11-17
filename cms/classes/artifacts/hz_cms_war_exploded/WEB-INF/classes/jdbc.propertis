@@ -1,7 +1,0 @@
-#jdbc 配置文件
-#数据库连接的url
-jdbc.url=jdbc:mysql://127.0.0.1:3306/hz-cms?useUnicode=true&characterEncoding=utf8&useSSL=true
-#数据库用户
-jdbc.user=root
-#数据库密码
-jdbc.password=wmq12138
