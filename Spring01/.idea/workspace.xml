@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1026526d-a376-4c2b-b5fb-6b68566b49cb" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="account: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1efAAHixINV8BHGxhwD8xIgf2Wr" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ui.Client" />
+      <module name="Spring01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jdbcDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.jdbcDemo01" />
+      <module name="Spring01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.jdbcDemo01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1026526d-a376-4c2b-b5fb-6b68566b49cb" name="默认更改列表" comment="" />
+      <created>1594702128460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594702128460</updated>
+      <workItem from="1594702129949" duration="9974000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="146" y="105" key="#HTTP_Proxy" timestamp="1594716882412">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="146" y="105" key="#HTTP_Proxy/0.30.1536.834@0.30.1536.834" timestamp="1594716882412" />
+    <state x="361" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594702454062">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1594702454062" />
+    <state x="581" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594705748869">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="581" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1536.834@0.30.1536.834" timestamp="1594705748869" />
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser" timestamp="1594704719614">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="574" y="156" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834@0.30.1536.834" timestamp="1594704719614" />
+    <state x="482" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594704982817">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="482" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1536.834@0.30.1536.834" timestamp="1594704982817" />
+    <state x="361" y="105" key="#项目结构" timestamp="1594704486624">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="105" key="#项目结构/0.30.1536.834@0.30.1536.834" timestamp="1594704486624" />
+    <state width="1493" height="229" key="GridCell.Tab.0.bottom" timestamp="1594723445715">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1594723445715" />
+    <state width="1493" height="229" key="GridCell.Tab.0.center" timestamp="1594723445715">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1594723445715" />
+    <state width="1493" height="229" key="GridCell.Tab.0.left" timestamp="1594723445715">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1594723445715" />
+    <state width="1493" height="229" key="GridCell.Tab.0.right" timestamp="1594723445715">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1493" height="229" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1594723445715" />
+    <state width="240" height="499" key="HiddenNamespacesPopup" timestamp="1594702617768">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="240" height="499" key="HiddenNamespacesPopup/0.30.1536.834@0.30.1536.834" timestamp="1594702617768" />
+    <state x="157" y="113" width="925" height="707" key="SettingsEditor" timestamp="1594721131980">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="157" y="113" width="925" height="707" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1594721131980" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring01$Client.ic" NAME="Client Coverage Results" MODIFIED="1594721152805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ui.*</FILTER>
+    </SUITE>
+  </component>
+</project>

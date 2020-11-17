@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfb8304f-4133-485f-b4bd-c40373eecd72" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatisdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mybatisdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="user: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\1-Java\maven\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\1-Java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1czokbcNFm0MJ4BmpMsKtRI5hIn" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32198712" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\1-Java\maven\maven_mybatis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MybatisTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MybatisTest" />
+      <module name="maven_mybatis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MybatisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfb8304f-4133-485f-b4bd-c40373eecd72" name="默认更改列表" comment="" />
+      <created>1591540926437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591540926437</updated>
+      <workItem from="1591540929041" duration="2667000" />
+      <workItem from="1591543731313" duration="82000" />
+      <workItem from="1591597928653" duration="480000" />
+      <workItem from="1591598432656" duration="154000" />
+      <workItem from="1591598612397" duration="585000" />
+      <workItem from="1591599226119" duration="1898000" />
+      <workItem from="1591601151414" duration="3220000" />
+      <workItem from="1591604418708" duration="1875000" />
+      <workItem from="1591790041057" duration="278000" />
+      <workItem from="1591858716077" duration="98000" />
+      <workItem from="1592216095721" duration="1455000" />
+      <workItem from="1592217620743" duration="236000" />
+      <workItem from="1592660629103" duration="641000" />
+      <workItem from="1592708676194" duration="175000" />
+      <workItem from="1592730890454" duration="712000" />
+      <workItem from="1592731631885" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592731900108">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="232" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1536.824@0.40.1536.824" timestamp="1592731900108" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1592731813590">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.40.1536.824@0.40.1536.824" timestamp="1592731813590" />
+    <state x="620" y="341" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1592216123353">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="620" y="341" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.40.1536.824@0.40.1536.824" timestamp="1592216123353" />
+    <state x="495" y="118" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1592216794006">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="495" y="118" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.40.1536.824@0.40.1536.824" timestamp="1592216794006" />
+    <state x="361" y="111" key="#项目结构" timestamp="1591601057152">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="361" y="111" key="#项目结构/0.40.1536.824@0.40.1536.824" timestamp="1591601057152" />
+    <state x="571" y="132" key="FileChooserDialogImpl" timestamp="1592708821853">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="571" y="132" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1592708821853" />
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom" timestamp="1592732146896">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1592732146896" />
+    <state width="1493" height="183" key="GridCell.Tab.0.center" timestamp="1592732146896">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1592732146896" />
+    <state width="1493" height="183" key="GridCell.Tab.0.left" timestamp="1592732146896">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1592732146896" />
+    <state width="1493" height="183" key="GridCell.Tab.0.right" timestamp="1592732146896">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1493" height="183" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1592732146896" />
+    <state width="296" height="499" key="HiddenNamespacesPopup" timestamp="1592731912509">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="296" height="499" key="HiddenNamespacesPopup/0.40.1536.824@0.40.1536.824" timestamp="1592731912509" />
+    <state x="66" y="40" key="SettingsEditor" timestamp="1592731566051">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="66" y="40" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1592731566051" />
+    <state x="485" y="89" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1592732008164">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="485" y="89" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.40.1536.824@0.40.1536.824" timestamp="1592732008164" />
+    <state x="46" y="85" width="751" height="687" key="new project wizard" timestamp="1592708850089">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="46" y="85" width="751" height="687" key="new project wizard/0.40.1536.824@0.40.1536.824" timestamp="1592708850089" />
+  </component>
+</project>
