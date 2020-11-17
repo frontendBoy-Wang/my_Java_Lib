@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib (4)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/课堂作业和考试/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/课堂作业和考试/lib" recursive="false" />
+  </library>
+</component>
